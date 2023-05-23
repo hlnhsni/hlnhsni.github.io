@@ -474,6 +474,7 @@ h3{
     }
 }
 .responsive {
-  width: 100%;
-  height: auto;
+   width: 100%;
+  max-width: 400px;
+  height: auto;
 }
